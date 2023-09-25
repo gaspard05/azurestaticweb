@@ -5,4 +5,4 @@ Fusce sit amet venenatis augue, volutpat ultrices metus. Vestibulum et pharetra 
 
 Instruction on Static Azure webb site
 --------------------------------------
-conentent goes here
+content goes here
